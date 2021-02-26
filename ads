@@ -1,6 +1,6 @@
 
 	{
-"version": "test v1",
+"version": "test v2",
   "admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
